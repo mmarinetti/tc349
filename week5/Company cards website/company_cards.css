@@ -1,0 +1,52 @@
+body {
+  background: url('android.jpg') repeat top;
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  line-height: 1.4em;
+  color: #fff;
+  text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 2px 0 #000, -1px 0 0 #000;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  color: #fff;
+}
+
+h1 {
+  padding:  20px 15px;
+  text-shadow: 1px 1px 2px #424242;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+
+h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+p {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  width: 50%;
+  border: 2px solid #00008D;
+  background-color: rgba(255, 255, 255, .3);
+  vertical-align: top;
+}
