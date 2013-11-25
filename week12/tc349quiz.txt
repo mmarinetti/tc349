@@ -1,0 +1,23 @@
+﻿Michael Marinetti
+Business of Web Design Quiz
+
+
+1. TRUE
+2. FALSE
+3. FALSE
+4. Property damage
+5. FALSE
+6. $45,000 x 1.35 = $60,750
+    1920 hours/year @ 60% billable = 1,152
+    $60,750/1,152 = 52.73 = $53/hour
+    Overhead: $12,000/1,152 = 10.42 ~ $11/hour
+    Operating Cost: $53 + $11 = $64
+    Profit: 25% => $16
+    Final Hourly Rate: $80
+7. FALSE
+8. Lansing Turbo Networking Group Meetup - http://www.meetup.com/lansingturbo/events/151852042/
+    Future of Web Design - http://www.meetup.com/lansingturbo/events/151852042/
+9. FALSE
+10. 1. Answer questions on Stackoverflow.com
+      2. Post on the programming subreddit (www.reddit.com/r/programming)
+      3. Write a blog about different problems in computer science
